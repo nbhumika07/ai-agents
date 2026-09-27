@@ -1,0 +1,212 @@
+[
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "category": "Programming",
+        "year": 2023,
+        "available": true
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Programming",
+        "year": 2008,
+        "available": false
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt and David Thomas",
+        "category": "Programming",
+        "year": 1999,
+        "available": true
+    },
+    {
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "category": "Programming",
+        "year": 2019,
+        "available": true
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein",
+        "category": "Computer Science",
+        "year": 2009,
+        "available": true
+    },
+    {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "author": "Stuart Russell and Peter Norvig",
+        "category": "Artificial Intelligence",
+        "year": 2021,
+        "available": true
+    },
+    {
+        "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+        "author": "Aurélien Géron",
+        "category": "Machine Learning",
+        "year": 2022,
+        "available": false
+    },
+    {
+        "title": "Deep Learning",
+        "author": "Ian Goodfellow, Yoshua Bengio and Aaron Courville",
+        "category": "Artificial Intelligence",
+        "year": 2016,
+        "available": true
+    },
+    {
+        "title": "Pattern Recognition and Machine Learning",
+        "author": "Christopher M. Bishop",
+        "category": "Machine Learning",
+        "year": 2006,
+        "available": true
+    },
+    {
+        "title": "Data Science for Business",
+        "author": "Foster Provost and Tom Fawcett",
+        "category": "Data Science",
+        "year": 2013,
+        "available": true
+    },
+    {
+        "title": "Python for Data Analysis",
+        "author": "Wes McKinney",
+        "category": "Data Science",
+        "year": 2022,
+        "available": false
+    },
+    {
+        "title": "Hands-On Data Analysis with Pandas",
+        "author": "Stefanie Molin",
+        "category": "Data Science",
+        "year": 2021,
+        "available": true
+    },
+    {
+        "title": "Database System Concepts",
+        "author": "Abraham Silberschatz, Henry Korth and S. Sudarshan",
+        "category": "Database",
+        "year": 2019,
+        "available": true
+    },
+    {
+        "title": "Fundamentals of Database Systems",
+        "author": "Ramez Elmasri and Shamkant Navathe",
+        "category": "Database",
+        "year": 2015,
+        "available": true
+    },
+    {
+        "title": "Operating System Concepts",
+        "author": "Abraham Silberschatz, Peter Baer Galvin and Greg Gagne",
+        "category": "Operating Systems",
+        "year": 2018,
+        "available": true
+    },
+    {
+        "title": "Modern Operating Systems",
+        "author": "Andrew S. Tanenbaum and Herbert Bos",
+        "category": "Operating Systems",
+        "year": 2014,
+        "available": false
+    },
+    {
+        "title": "Computer Networks",
+        "author": "Andrew S. Tanenbaum and David J. Wetherall",
+        "category": "Computer Networks",
+        "year": 2010,
+        "available": true
+    },
+    {
+        "title": "Computer Networking: A Top-Down Approach",
+        "author": "James Kurose and Keith Ross",
+        "category": "Computer Networks",
+        "year": 2021,
+        "available": true
+    },
+    {
+        "title": "Software Engineering",
+        "author": "Ian Sommerville",
+        "category": "Software Engineering",
+        "year": 2015,
+        "available": false
+    },
+    {
+        "title": "Engineering Mathematics",
+        "author": "B. S. Grewal",
+        "category": "Mathematics",
+        "year": 2017,
+        "available": true
+    },
+    {
+        "title": "Calculus",
+        "author": "James Stewart",
+        "category": "Mathematics",
+        "year": 2015,
+        "available": true
+    },
+    {
+        "title": "Principles of Marketing",
+        "author": "Philip Kotler and Gary Armstrong",
+        "category": "Marketing",
+        "year": 2020,
+        "available": true
+    },
+    {
+        "title": "Marketing Management",
+        "author": "Philip Kotler and Kevin Lane Keller",
+        "category": "Marketing",
+        "year": 2016,
+        "available": false
+    },
+    {
+        "title": "Organizational Behavior",
+        "author": "Stephen P. Robbins and Timothy A. Judge",
+        "category": "Management",
+        "year": 2019,
+        "available": true
+    },
+    {
+        "title": "Human Resource Management",
+        "author": "Gary Dessler",
+        "category": "Human Resources",
+        "year": 2020,
+        "available": true
+    },
+    {
+        "title": "Principles of Economics",
+        "author": "N. Gregory Mankiw",
+        "category": "Economics",
+        "year": 2020,
+        "available": true
+    },
+    {
+        "title": "Microeconomics",
+        "author": "Robert Pindyck and Daniel Rubinfeld",
+        "category": "Economics",
+        "year": 2017,
+        "available": false
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "category": "Fiction",
+        "year": 1988,
+        "available": true
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "category": "Self Help",
+        "year": 2018,
+        "available": false
+    },
+    {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "category": "Finance",
+        "year": 2020,
+        "available": true
+    }
+]
