@@ -1,1 +1,2 @@
-"Cinematic slow-motion close-up shot of a medieval knight lifting a glowing sword, sparks floating in the air, dark gothic castle interior, dramatic soft side-lighting, 4k resolution, photorealistic, 35mm lens.
+Prompt given: 
+"Cinematic slow-motion close-up shot of a medieval knight lifting a glowing sword, sparks floating in the air, dark gothic castle interior, dramatic soft side-lighting, 4k resolution, photorealistic, 35mm lens"
