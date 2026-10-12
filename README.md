@@ -1,81 +1,22 @@
-# AI Agents
+# AI Labs & Agent Projects
 
+Welcome to the repository containing various AI labs, assistant applications, and autonomous agent implementations[cite: 1, 2, 4, 5, 6, 7, 8].
 
+---
 
-A collection of independent AI-powered applications developed as separate, modular projects. Each agent is self-contained with its own frontend, backend, dependencies, configuration, and documentation.
+## 📁 Project Directory
 
+* **`Simple ai agent/`**[cite: 8]
+  Contains basic rule-based assistant implementations built with Python conditional logic and interactive user inputs[cite: 4].
 
+* **`ai-personalized-study-planner/`**[cite: 8]
+  Implements study assistant agents utilizing advanced prompt engineering techniques including zero-shot, few-shot, and role prompting[cite: 7].
 
-## Agents
+* **`college-library-chatbot/`**[cite: 8]
+  A Retrieval-Augmented Generation (RAG) assistant designed to answer student questions accurately using college documents, handbooks, and FAQs[cite: 5].
 
+* **`shortfilm/`**[cite: 8]
+  Workspace dedicated to multimedia scripting, scene organization, and creative narrative development assets.
 
-
-### 1. Library Chatbot
-
-
-
-An AI chatbot designed to answer questions about books and information available in a school library.
-
-
-
-**Folder:** `college-library-chatbot/`
-
-
-
-### 2. AI Study Planner
-
-
-
-An AI-powered study planning assistant that helps students organize their study schedules based on their subjects, available time, and academic requirements.
-
-
-
-**Folder:** `ai-personalised-study-planner/`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Running an Agent
-
-
-
-Navigate to the required agent's directory and follow the instructions provided in its individual `README.md`.
-
-
-
-
-
-
-
-Then follow the setup and execution instructions provided for that agent.
-
-
-
-## Environment Variables
-
-
-
-API keys and other sensitive credentials are **not stored in this repository**.
-
-
-
-Create a local `.env` file when setting up an agent. 
-
-
-
-
-
-
-
-
+* **`travel-agent/`**[cite: 8]
+  An autonomous mini travel agent featuring tool execution, memory management, dynamic re-planning, and human-in-the-loop safety approvals[cite: 1, 2].
